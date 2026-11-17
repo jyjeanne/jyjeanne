@@ -1,4 +1,17 @@
-# Me
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1500&color=4493F8&vCenter=true&width=500&height=50&lines=Hi%2C+I%27m+Jeremy+Jeanne"
+      />
+      <img
+        alt="Hi, I'm Jeremy Jeanne"
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1500&color=0969DA&vCenter=true&width=500&height=50&lines=Hi%2C+I%27m+Jeremy+Jeanne"
+      />
+    </picture>
+  </a>
+</p>
 
 <p>
   <a href="https://github.com/stats-organization/github-stats-extended">
@@ -68,63 +81,5 @@
       height="50"
       src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
     />
-  </a>
-</p>
-
-## Pinned repositories
-
-<p>
-  <a href="https://github.com/jyjeanne/okf-rs">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://github-stats-extended.vercel.app/api/pin/?username=jyjeanne&repo=okf-rs&theme=dark_github_repocard"
-      />
-      <img
-        align="top"
-        alt="okf-rs"
-        src="https://github-stats-extended.vercel.app/api/pin/?username=jyjeanne&repo=okf-rs&theme=light_github_repocard"
-      />
-    </picture>
-  </a>
-  <a href="https://github.com/jyjeanne/crustly">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://github-stats-extended.vercel.app/api/pin/?username=jyjeanne&repo=crustly&theme=dark_github_repocard"
-      />
-      <img
-        align="top"
-        alt="crustly"
-        src="https://github-stats-extended.vercel.app/api/pin/?username=jyjeanne&repo=crustly&theme=light_github_repocard"
-      />
-    </picture>
-  </a>
-  <br />
-  <a href="https://github.com/jyjeanne/ditacraft">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://github-stats-extended.vercel.app/api/pin/?username=jyjeanne&repo=ditacraft&theme=dark_github_repocard"
-      />
-      <img
-        align="top"
-        alt="ditacraft"
-        src="https://github-stats-extended.vercel.app/api/pin/?username=jyjeanne&repo=ditacraft&theme=light_github_repocard"
-      />
-    </picture>
-  </a>
-  <a href="https://github.com/jyjeanne/solidspec">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://github-stats-extended.vercel.app/api/pin/?username=jyjeanne&repo=solidspec&theme=dark_github_repocard"
-      />
-      <img
-        align="top"
-        alt="solidspec"
-        src="https://github-stats-extended.vercel.app/api/pin/?username=jyjeanne&repo=solidspec&theme=light_github_repocard"
-      />
-    </picture>
   </a>
 </p>
